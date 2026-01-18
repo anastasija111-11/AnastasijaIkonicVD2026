@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://anastasija111-11.github.io/AnastasijaIkonicVD2026/sitemap.xml
